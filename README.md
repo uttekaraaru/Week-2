@@ -81,3 +81,8 @@ Lab Status: Solved
 ## Disclaimer
 
 This repository is created strictly for educational purposes using PortSwigger's legal training environment. Do not attempt these techniques on systems without proper authorization.
+
+## Acknowledgements
+
+Special thanks to RedKross Research Foundation for their support, mentorship, and cybersecurity training resources that contributed to the successful completion of this project.
+#redkrossresearchfoundation @redkrossresarchfoundation
